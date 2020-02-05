@@ -1,0 +1,8 @@
+// what is appsync
+
+- process of developing applications by letting us create flexible, secure and real-time API's
+it connect client apps and AWS, it also combines data sources, APIs and other backend systems
+benefits: fast setup, realtime subscriptions, unified secured access
+
+// what is amplify
+
